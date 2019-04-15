@@ -1,0 +1,6 @@
+[global]
+reboot_command=sudo /bin/systemctl reboot
+reboot_confirm=yes
+restart_service_command=sudo /bin/systemctl restart {}
+shutdown_command=sudo /bin/systemctl poweroff
+shutdown_confirm=yes

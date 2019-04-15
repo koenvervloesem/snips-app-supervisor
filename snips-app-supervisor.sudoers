@@ -1,0 +1,16 @@
+# Sudo rights needed for the Snips app Supervisor.
+# Install this by:
+# sudo cp snips-app-supervisor.sudoers /etc/sudoers.d/snips-app-supervisor
+# sudo chmod 0440 /etc/sudoers.d/snips-app-supervisor
+_snips-skills ALL=(ALL:ALL) NOPASSWD: /bin/systemctl reboot
+_snips-skills ALL=(ALL:ALL) NOPASSWD: /bin/systemctl poweroff
+_snips-skills ALL=(ALL:ALL) NOPASSWD: /bin/systemctl restart snips-analytics
+_snips-skills ALL=(ALL:ALL) NOPASSWD: /bin/systemctl restart snips-asr
+_snips-skills ALL=(ALL:ALL) NOPASSWD: /bin/systemctl restart snips-asr-google
+_snips-skills ALL=(ALL:ALL) NOPASSWD: /bin/systemctl restart snips-audio-server
+_snips-skills ALL=(ALL:ALL) NOPASSWD: /bin/systemctl restart snips-dialogue
+_snips-skills ALL=(ALL:ALL) NOPASSWD: /bin/systemctl restart snips-hotword
+_snips-skills ALL=(ALL:ALL) NOPASSWD: /bin/systemctl restart snips-injection
+_snips-skills ALL=(ALL:ALL) NOPASSWD: /bin/systemctl restart snips-nlu
+_snips-skills ALL=(ALL:ALL) NOPASSWD: /bin/systemctl restart snips-skill-server
+_snips-skills ALL=(ALL:ALL) NOPASSWD: /bin/systemctl restart snips-tts
