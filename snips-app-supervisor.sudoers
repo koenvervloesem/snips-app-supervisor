@@ -14,3 +14,4 @@ _snips-skills ALL=(ALL:ALL) NOPASSWD: /bin/systemctl restart snips-injection
 _snips-skills ALL=(ALL:ALL) NOPASSWD: /bin/systemctl restart snips-nlu
 _snips-skills ALL=(ALL:ALL) NOPASSWD: /bin/systemctl restart snips-skill-server
 _snips-skills ALL=(ALL:ALL) NOPASSWD: /bin/systemctl restart snips-tts
+_snips-skills ALL=(ALL:ALL) NOPASSWD: /bin/systemctl restart snips-analytics snips-asr snips-asr-google snips-audio-server snips-dialogue snips-hotword snips-injection snips-nlu snips-skill-server snips-tts
