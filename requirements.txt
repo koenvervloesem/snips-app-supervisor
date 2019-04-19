@@ -1,2 +1,2 @@
-snipskit[hermes]~=0.6.0
+snipskit[hermes,mqtt]~=0.6.0
 pyyaml
