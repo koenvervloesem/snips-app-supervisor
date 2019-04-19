@@ -15,7 +15,7 @@ from snipskit.apps import SnipsAppMixin
 from snipskit.config import AppConfig
 from snipskit.hermes.apps import HermesSnipsApp
 from snipskit.hermes.decorators import intent, intent_not_recognized
-from sniptkit.mqtt.client import publish_single
+from snipskit.mqtt.client import publish_single
 
 # Use the assistant's language.
 i18n = importlib.import_module('translations.' + SnipsAppMixin().assistant['language'])
@@ -164,7 +164,7 @@ class Supervisor(HermesSnipsApp):
                                                  custom_data=custom_data,
                                                  send_intent_not_recognized=True)
         else:
-            self.function(intent_message)
+            function(intent_message)
 
     # Reboot
     @intent(i18n.INTENT_REBOOT)
