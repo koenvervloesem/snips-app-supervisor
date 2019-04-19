@@ -48,7 +48,7 @@ class Supervisor(HermesSnipsApp):
 
         # Inject the names of the installed apps.
         apps = list(self.app_directories().keys())
-        injections = {'operations': [['add', {'koan/snips-app': apps}]]}
+        injections = {'operations': [['add', {i18n.SLOT_TYPE_APP: apps}]]}
         publish_single(self.snips.mqtt, INJECTION_PERFORM, injections)
 
     @intent_not_recognized

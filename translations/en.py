@@ -25,3 +25,6 @@ INTENT_ENABLE_APP = 'koan:EnableApp'
 INTENT_REBOOT = 'koan:Reboot'
 INTENT_RESTART_SERVICE = 'koan:RestartService'
 INTENT_SHUTDOWN = 'koan:Shutdown'
+
+# Slot types
+SLOT_TYPE_APP = 'koan/snips-app'
