@@ -19,6 +19,8 @@ The commands to reboot and shutdown your system and to restart Snips services ca
 
 By default the app asks for confirmation if you ask it to reboot or shutdown your system. This can be disabled in the app's parameters `reboot_confirm` and `shutdown_confirm`.
 
+For disabling and enabling apps, the `snips-injection` service should be running, because the names of the installed apps are injected in the vocabulary of Snips.
+
 ## Usage
 
 This app recognizes the following intents:
