@@ -25,8 +25,10 @@ This app recognizes the following intents:
 
 *   ConfirmReboot (only enabled after the Reboot intent is activated and the `reboot_confirm` parameter is set to true) - The user confirms that he wants to reboot the system.
 *   ConfirmShutdown (only enabled after the Shutdown intent is activated and the `shutdown_confirm` parameter is set to true) - The user confirms that he wants to shutdown the system.
+*   EnableApp - The user asks to enable a Snips app.
+*   DisableApp - The user asks to disable a Snips app.
 *   Reboot - The user asks to reboot the machine Snips is running on.
-*   RestartService - The user asks to restart a Snips service or all Snips services. 
+*   RestartService - The user asks to restart a Snips service or all Snips services.
 *   Shutdown - The user asks to shutdown the machine Snips is running on.
 
 ## Copyright
