@@ -1,5 +1,5 @@
 """
-This module contains the result sentences and intents for the English version
+This module contains the result sentences and intents for the German version
 of the Supervisor app.
 """
 
