@@ -1,4 +1,3 @@
-    
 """
 This module contains the result sentences and intents for the French version
 of the Supervisor app.
