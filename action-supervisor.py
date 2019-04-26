@@ -145,7 +145,9 @@ class Supervisor(HermesSnipsApp):
     def restart_service(self, site_id, restart_service_command, service=''):
         """Run the restart service command."""
         if not service:
-            service = 'snips-*'
+            service = 'snips-analytics snips-asr snips-audio-server'
+                      ' snips-dialogue snips-hotword snips-injection snips-nlu'
+                      ' snips-skill-server snips-tts'
 
         try:
             run(restart_service_command.format(service).split(), check=True)
