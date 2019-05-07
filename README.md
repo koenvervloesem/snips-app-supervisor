@@ -8,8 +8,8 @@ With this [Snips](https://snips.ai/) app, you can reboot or shutdown the system 
 The easiest way to install this app is by adding the corresponding Snips app to your assistant in the [Snips Console](https://console.snips.ai):
 
 *   English: [Supervisor](https://console.snips.ai/store/en/skill_l6qM1pVz2ez)
-*   German: [Supervisor](https://console.snips.ai/store/de/skill_px7A7V0Gzp1)
 *   French: [Superviseur](https://console.snips.ai/store/fr/skill_BWAwo87MxrW)
+*   German: [Supervisor](https://console.snips.ai/store/de/skill_px7A7V0Gzp1)
 
 ## Configuration
 
