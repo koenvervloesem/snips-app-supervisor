@@ -1,6 +1,7 @@
 """
-This module contains the result sentences and intents for the English version
-of the Supervisor app.
+
+Este módulo contiene las sentencias e intenciones para la versión en español
+de la aplicación Supervisor.
 """
 
 # Result sentences
@@ -18,13 +19,13 @@ RESULT_SORRY = "LO siento, he encontrado un error. Consulta los logs para resolv
 RESULT_SORRY_PERMISSIONS = "LO siento, no puedo cambiar los permisos de los ejecutables de las acciones."
 
 # Intents
-INTENT_CONFIRM_REBOOT = 'koan:ConfirmReboot'
-INTENT_CONFIRM_SHUTDOWN = 'koan:ConfirmShutdown'
-INTENT_DISABLE_APP = 'koan:DisableApp'
-INTENT_ENABLE_APP = 'koan:EnableApp'
-INTENT_REBOOT = 'koan:Reboot'
-INTENT_RESTART_SERVICE = 'koan:RestartService'
-INTENT_SHUTDOWN = 'koan:Shutdown'
+INTENT_CONFIRM_REBOOT = 'pepebc:ConfirmReboot'
+INTENT_CONFIRM_SHUTDOWN = 'pepebc:ConfirmShutdown'
+INTENT_DISABLE_APP = 'pepebc:DisableApp'
+INTENT_ENABLE_APP = 'pepebc:EnableApp'
+INTENT_REBOOT = 'pepebc:Reboot'
+INTENT_RESTART_SERVICE = 'pepebc:RestartService'
+INTENT_SHUTDOWN = 'pepebc:Shutdown'
 
 # Slot types
-SLOT_TYPE_APP = 'koan/snips-app'
+SLOT_TYPE_APP = 'pepebc/snips-app'
