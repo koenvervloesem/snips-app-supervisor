@@ -1,0 +1,39 @@
+{
+  "name" : "philipp/snips-service",
+  "useSynonyms" : true,
+  "data" : [ {
+    "value" : "snips-analytics",
+    "synonyms" : [ "snips analytics", "analytics" ]
+  }, {
+    "value" : "snips-asr",
+    "synonyms" : [ "snips asr", "snips A S R", "asr", "A S R", "automatic speech recognition", "speech recognition", "sprach erkennung" ]
+  }, {
+    "value" : "snips-asr-google",
+    "synonyms" : [ "snips asr google", "snips A S R google", "asr google", "A S R google", "automatic speech recognition from google", "speech recognition from google", "google sprach erkennung" ]
+  }, {
+    "value" : "snips-audio-server",
+    "synonyms" : [ "snips audio server", "audio server", "audio" ]
+  }, {
+    "value" : "snips-dialogue",
+    "synonyms" : [ "snips dialogue", "dialogue", "Dialog", "Dialog Manager" ]
+  }, {
+    "value" : "snips-hotword",
+    "synonyms" : [ "snips hotword", "hotword", "wakeword" ]
+  }, {
+    "value" : "snips-injection",
+    "synonyms" : [ "snips injection", "injection" ]
+  }, {
+    "value" : "snips-nlu",
+    "synonyms" : [ "snips nlu", "snips N L U", "nlu", "N L U", "natural language understanding" ]
+  }, {
+    "value" : "snips-skill-server",
+    "synonyms" : [ "snips skill server", "skill server", "skills", "actions", "apps", "snips actions", "snips apps" ]
+  }, {
+    "value" : "snips-tts",
+    "synonyms" : [ "snips tts", "snips T T S", "tts", "T T S", "text to speech" ]
+  } ],
+  "automaticallyExtensible" : false,
+  "id" : "entity_AWqrVoE6dn9",
+  "language" : "de",
+  "entityType" : "custom"
+}

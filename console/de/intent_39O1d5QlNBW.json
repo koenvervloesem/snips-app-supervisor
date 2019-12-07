@@ -1,0 +1,2038 @@
+{
+  "customIntentData" : {
+    "language" : "de",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "Aktiviere das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 23,
+          "end" : 33
+        },
+        "slot_id" : "mfZVxhXAV"
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Aktiviere bitte das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 29,
+          "end" : 39
+        },
+        "slot_id" : "mfZVxhXAV"
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Aktiviere das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 23,
+          "end" : 33
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte",
+        "range" : {
+          "start" : 33,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Aktiviere wieder das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 30,
+          "end" : 40
+        },
+        "slot_id" : "mfZVxhXAV"
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Aktiviere das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 23,
+          "end" : 33
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " wieder",
+        "range" : {
+          "start" : 33,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Aktiviere bitte wieder das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 36,
+          "end" : 46
+        },
+        "slot_id" : "mfZVxhXAV"
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Aktiviere bitte das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 29,
+          "end" : 39
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " wieder",
+        "range" : {
+          "start" : 39,
+          "end" : 46
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Aktiviere wieder das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 30,
+          "end" : 40
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte",
+        "range" : {
+          "start" : 40,
+          "end" : 46
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Aktiviere das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 23,
+          "end" : 33
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte wieder",
+        "range" : {
+          "start" : 33,
+          "end" : 46
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reaktiviere das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 25,
+          "end" : 35
+        },
+        "slot_id" : "mfZVxhXAV"
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reaktiviere bitte das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 31,
+          "end" : 41
+        },
+        "slot_id" : "mfZVxhXAV"
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reaktiviere das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 25,
+          "end" : 35
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte",
+        "range" : {
+          "start" : 35,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reaktiviere wieder das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 32,
+          "end" : 42
+        },
+        "slot_id" : "mfZVxhXAV"
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reaktiviere das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 25,
+          "end" : 35
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " wieder",
+        "range" : {
+          "start" : 35,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reaktiviere bitte wieder das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 38,
+          "end" : 48
+        },
+        "slot_id" : "mfZVxhXAV"
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reaktiviere bitte das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 31,
+          "end" : 41
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " wieder",
+        "range" : {
+          "start" : 41,
+          "end" : 48
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reaktiviere wieder das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 32,
+          "end" : 42
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte",
+        "range" : {
+          "start" : 42,
+          "end" : 48
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reaktiviere das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 25,
+          "end" : 35
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte wieder",
+        "range" : {
+          "start" : 35,
+          "end" : 48
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 21,
+          "end" : 31
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte an",
+        "range" : {
+          "start" : 31,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 21,
+          "end" : 31
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " an",
+        "range" : {
+          "start" : 31,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte bitte das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 27,
+          "end" : 37
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " an",
+        "range" : {
+          "start" : 37,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 21,
+          "end" : 31
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte ein",
+        "range" : {
+          "start" : 31,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 21,
+          "end" : 31
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " ein",
+        "range" : {
+          "start" : 31,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte bitte das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 27,
+          "end" : 37
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " ein",
+        "range" : {
+          "start" : 37,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 21,
+          "end" : 31
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte an",
+        "range" : {
+          "start" : 31,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 21,
+          "end" : 31
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " an",
+        "range" : {
+          "start" : 31,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte bitte das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 27,
+          "end" : 37
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " an",
+        "range" : {
+          "start" : 37,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 21,
+          "end" : 31
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte ein",
+        "range" : {
+          "start" : 31,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 21,
+          "end" : 31
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " ein",
+        "range" : {
+          "start" : 31,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte bitte das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 27,
+          "end" : 37
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " ein",
+        "range" : {
+          "start" : 37,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 23,
+          "end" : 33
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte wieder aktivieren",
+        "range" : {
+          "start" : 33,
+          "end" : 57
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 23,
+          "end" : 33
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte aktivieren",
+        "range" : {
+          "start" : 33,
+          "end" : 50
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 23,
+          "end" : 33
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte reaktivieren",
+        "range" : {
+          "start" : 33,
+          "end" : 52
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 23,
+          "end" : 33
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte wieder reaktivieren",
+        "range" : {
+          "start" : 33,
+          "end" : 59
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 23,
+          "end" : 33
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte wieder einschalten",
+        "range" : {
+          "start" : 33,
+          "end" : 58
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 23,
+          "end" : 33
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte wieder anschalten",
+        "range" : {
+          "start" : 33,
+          "end" : 57
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 23,
+          "end" : 33
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " wieder aktivieren",
+        "range" : {
+          "start" : 33,
+          "end" : 51
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 23,
+          "end" : 33
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " aktivieren",
+        "range" : {
+          "start" : 33,
+          "end" : 44
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 23,
+          "end" : 33
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " reaktivieren",
+        "range" : {
+          "start" : 33,
+          "end" : 46
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 23,
+          "end" : 33
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " wieder reaktivieren",
+        "range" : {
+          "start" : 33,
+          "end" : 53
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 23,
+          "end" : 33
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " wieder einschalten",
+        "range" : {
+          "start" : 33,
+          "end" : 52
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 23,
+          "end" : 33
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " wieder anschalten",
+        "range" : {
+          "start" : 33,
+          "end" : 51
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 29,
+          "end" : 39
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " wieder aktivieren",
+        "range" : {
+          "start" : 39,
+          "end" : 57
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 29,
+          "end" : 39
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " aktivieren",
+        "range" : {
+          "start" : 39,
+          "end" : 50
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 29,
+          "end" : 39
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " reaktivieren",
+        "range" : {
+          "start" : 39,
+          "end" : 52
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 29,
+          "end" : 39
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " wieder reaktivieren",
+        "range" : {
+          "start" : 39,
+          "end" : 59
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 29,
+          "end" : 39
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " wieder einschalten",
+        "range" : {
+          "start" : 39,
+          "end" : 58
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte das Programm ",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 29,
+          "end" : 39
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " wieder anschalten",
+        "range" : {
+          "start" : 39,
+          "end" : 57
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Aktiviere die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 18,
+          "end" : 28
+        },
+        "slot_id" : "mfZVxhXAV"
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Aktiviere bitte die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 24,
+          "end" : 34
+        },
+        "slot_id" : "mfZVxhXAV"
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Aktiviere die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 18,
+          "end" : 28
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte",
+        "range" : {
+          "start" : 28,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Aktiviere wieder die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 25,
+          "end" : 35
+        },
+        "slot_id" : "mfZVxhXAV"
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Aktiviere die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 18,
+          "end" : 28
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " wieder",
+        "range" : {
+          "start" : 28,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Aktiviere bitte wieder die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 31,
+          "end" : 41
+        },
+        "slot_id" : "mfZVxhXAV"
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Aktiviere bitte die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 24,
+          "end" : 34
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " wieder",
+        "range" : {
+          "start" : 34,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Aktiviere wieder die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 25,
+          "end" : 35
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte",
+        "range" : {
+          "start" : 35,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Aktiviere die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 18,
+          "end" : 28
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte wieder",
+        "range" : {
+          "start" : 28,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reaktiviere die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 20,
+          "end" : 30
+        },
+        "slot_id" : "mfZVxhXAV"
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reaktiviere bitte die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 26,
+          "end" : 36
+        },
+        "slot_id" : "mfZVxhXAV"
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reaktiviere die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 20,
+          "end" : 30
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte",
+        "range" : {
+          "start" : 30,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reaktiviere wieder die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 27,
+          "end" : 37
+        },
+        "slot_id" : "mfZVxhXAV"
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reaktiviere die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 20,
+          "end" : 30
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " wieder",
+        "range" : {
+          "start" : 30,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reaktiviere bitte wieder die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 33,
+          "end" : 43
+        },
+        "slot_id" : "mfZVxhXAV"
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reaktiviere bitte die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 26,
+          "end" : 36
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " wieder",
+        "range" : {
+          "start" : 36,
+          "end" : 43
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reaktiviere wieder die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 27,
+          "end" : 37
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte",
+        "range" : {
+          "start" : 37,
+          "end" : 43
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reaktiviere die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 20,
+          "end" : 30
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte wieder",
+        "range" : {
+          "start" : 30,
+          "end" : 43
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 16
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 16,
+          "end" : 26
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte an",
+        "range" : {
+          "start" : 26,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 16
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 16,
+          "end" : 26
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " an",
+        "range" : {
+          "start" : 26,
+          "end" : 29
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte bitte die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 22,
+          "end" : 32
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " an",
+        "range" : {
+          "start" : 32,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 16
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 16,
+          "end" : 26
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte ein",
+        "range" : {
+          "start" : 26,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 16
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 16,
+          "end" : 26
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " ein",
+        "range" : {
+          "start" : 26,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte bitte die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 22,
+          "end" : 32
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " ein",
+        "range" : {
+          "start" : 32,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 16
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 16,
+          "end" : 26
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte an",
+        "range" : {
+          "start" : 26,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 16
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 16,
+          "end" : 26
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " an",
+        "range" : {
+          "start" : 26,
+          "end" : 29
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte bitte die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 22,
+          "end" : 32
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " an",
+        "range" : {
+          "start" : 32,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 16
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 16,
+          "end" : 26
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte ein",
+        "range" : {
+          "start" : 26,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 16
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 16,
+          "end" : 26
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " ein",
+        "range" : {
+          "start" : 26,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte bitte die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 22,
+          "end" : 32
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " ein",
+        "range" : {
+          "start" : 32,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 18,
+          "end" : 28
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte wieder aktivieren",
+        "range" : {
+          "start" : 28,
+          "end" : 52
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 18,
+          "end" : 28
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte aktivieren",
+        "range" : {
+          "start" : 28,
+          "end" : 45
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 18,
+          "end" : 28
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte reaktivieren",
+        "range" : {
+          "start" : 28,
+          "end" : 47
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 18,
+          "end" : 28
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte wieder reaktivieren",
+        "range" : {
+          "start" : 28,
+          "end" : 54
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 18,
+          "end" : 28
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte wieder einschalten",
+        "range" : {
+          "start" : 28,
+          "end" : 53
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 18,
+          "end" : 28
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " bitte wieder anschalten",
+        "range" : {
+          "start" : 28,
+          "end" : 52
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 18,
+          "end" : 28
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " wieder aktivieren",
+        "range" : {
+          "start" : 28,
+          "end" : 46
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 18,
+          "end" : 28
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " aktivieren",
+        "range" : {
+          "start" : 28,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 18,
+          "end" : 28
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " reaktivieren",
+        "range" : {
+          "start" : 28,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 18,
+          "end" : 28
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " wieder reaktivieren",
+        "range" : {
+          "start" : 28,
+          "end" : 48
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 18,
+          "end" : 28
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " wieder einschalten",
+        "range" : {
+          "start" : 28,
+          "end" : 47
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 18,
+          "end" : 28
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " wieder anschalten",
+        "range" : {
+          "start" : 28,
+          "end" : 46
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 24,
+          "end" : 34
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " wieder aktivieren",
+        "range" : {
+          "start" : 34,
+          "end" : 52
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 24,
+          "end" : 34
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " aktivieren",
+        "range" : {
+          "start" : 34,
+          "end" : 45
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 24,
+          "end" : 34
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " reaktivieren",
+        "range" : {
+          "start" : 34,
+          "end" : 47
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 24,
+          "end" : 34
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " wieder reaktivieren",
+        "range" : {
+          "start" : 34,
+          "end" : 54
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 24,
+          "end" : 34
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " wieder einschalten",
+        "range" : {
+          "start" : 34,
+          "end" : 53
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte die App ",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 24,
+          "end" : 34
+        },
+        "slot_id" : "mfZVxhXAV"
+      }, {
+        "text" : " wieder anschalten",
+        "range" : {
+          "start" : 34,
+          "end" : 52
+        }
+      } ],
+      "from_utterance_import" : true
+    } ]
+  },
+  "id" : "intent_39O1d5QlNBW",
+  "config" : {
+    "displayName" : "EnableApp",
+    "name" : "EnableApp",
+    "description" : "Aktiviert ein aktuell ausgeschaltetes Programm",
+    "language" : "de",
+    "slots" : [ {
+      "name" : "app",
+      "id" : "mfZVxhXAV",
+      "entityId" : "entity_EMAgoXV71M0",
+      "missingQuestion" : "Welches Programm soll ich aktivieren?",
+      "required" : true
+    } ],
+    "enabledByDefault" : true,
+    "exampleQueries" : [ "Aktiviere das Programm Supervisor", "Aktiviere bitte das Programm Supervisor", "Aktiviere das Programm Supervisor bitte", "Aktiviere wieder das Programm Supervisor", "Aktiviere das Programm Supervisor wieder", "Aktiviere bitte wieder das Programm Supervisor", "Aktiviere bitte das Programm Supervisor wieder", "Aktiviere wieder das Programm Supervisor bitte", "Aktiviere das Programm Supervisor bitte wieder", "Reaktiviere das Programm Supervisor" ]
+  }
+}

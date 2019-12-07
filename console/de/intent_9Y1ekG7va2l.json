@@ -1,0 +1,1174 @@
+{
+  "customIntentData" : {
+    "language" : "de",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "Starte den Service ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 19,
+          "end" : 27
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " neu",
+        "range" : {
+          "start" : 27,
+          "end" : 31
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Starte bitte den Service ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 25,
+          "end" : 33
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " neu",
+        "range" : {
+          "start" : 33,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Starte den Service ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 19,
+          "end" : 27
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " bitte neu",
+        "range" : {
+          "start" : 27,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte Starte den Service ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 25,
+          "end" : 33
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " neu",
+        "range" : {
+          "start" : 33,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Starte den Service ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 19,
+          "end" : 27
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " neu bitte",
+        "range" : {
+          "start" : 27,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Setze den Service ",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 18,
+          "end" : 26
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " zurück",
+        "range" : {
+          "start" : 26,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Setze bitte den Service ",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 24,
+          "end" : 32
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " zurück",
+        "range" : {
+          "start" : 32,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Setze den Service ",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 18,
+          "end" : 26
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " bitte zurück",
+        "range" : {
+          "start" : 26,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte setze den Service ",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 24,
+          "end" : 32
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " zurück",
+        "range" : {
+          "start" : 32,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Setze den Service ",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 18,
+          "end" : 26
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " zurück bitte",
+        "range" : {
+          "start" : 26,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du den Service ",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 22,
+          "end" : 30
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " neu starten",
+        "range" : {
+          "start" : 30,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte den Service ",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 28,
+          "end" : 36
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " neu starten",
+        "range" : {
+          "start" : 36,
+          "end" : 48
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du den Service ",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 22,
+          "end" : 30
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " bitte neu starten",
+        "range" : {
+          "start" : 30,
+          "end" : 48
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du den Service ",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 22,
+          "end" : 30
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " neu starten bitte",
+        "range" : {
+          "start" : 30,
+          "end" : 48
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du den Service ",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 22,
+          "end" : 30
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " zurück setzen",
+        "range" : {
+          "start" : 30,
+          "end" : 44
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte den Service ",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 28,
+          "end" : 36
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " zurück setzen",
+        "range" : {
+          "start" : 36,
+          "end" : 50
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du den Service ",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 22,
+          "end" : 30
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " bitte zurück setzen",
+        "range" : {
+          "start" : 30,
+          "end" : 50
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du ",
+        "range" : {
+          "start" : 0,
+          "end" : 10
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 10,
+          "end" : 18
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " zurück setzen bitte",
+        "range" : {
+          "start" : 18,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Starte ",
+        "range" : {
+          "start" : 0,
+          "end" : 7
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 7,
+          "end" : 15
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " neu",
+        "range" : {
+          "start" : 15,
+          "end" : 19
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Starte bitte ",
+        "range" : {
+          "start" : 0,
+          "end" : 13
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 13,
+          "end" : 21
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " neu",
+        "range" : {
+          "start" : 21,
+          "end" : 25
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Starte ",
+        "range" : {
+          "start" : 0,
+          "end" : 7
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 7,
+          "end" : 15
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " bitte neu",
+        "range" : {
+          "start" : 15,
+          "end" : 25
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte Starte ",
+        "range" : {
+          "start" : 0,
+          "end" : 13
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 13,
+          "end" : 21
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " neu",
+        "range" : {
+          "start" : 21,
+          "end" : 25
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Starte ",
+        "range" : {
+          "start" : 0,
+          "end" : 7
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 7,
+          "end" : 15
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " neu bitte",
+        "range" : {
+          "start" : 15,
+          "end" : 25
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Setze ",
+        "range" : {
+          "start" : 0,
+          "end" : 6
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 6,
+          "end" : 14
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " zurück",
+        "range" : {
+          "start" : 14,
+          "end" : 21
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Setze bitte ",
+        "range" : {
+          "start" : 0,
+          "end" : 12
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 12,
+          "end" : 20
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " zurück",
+        "range" : {
+          "start" : 20,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Setze ",
+        "range" : {
+          "start" : 0,
+          "end" : 6
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 6,
+          "end" : 14
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " bitte zurück",
+        "range" : {
+          "start" : 14,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte setze ",
+        "range" : {
+          "start" : 0,
+          "end" : 12
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 12,
+          "end" : 20
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " zurück",
+        "range" : {
+          "start" : 20,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Setze ",
+        "range" : {
+          "start" : 0,
+          "end" : 6
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 6,
+          "end" : 14
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " zurück bitte",
+        "range" : {
+          "start" : 14,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du ",
+        "range" : {
+          "start" : 0,
+          "end" : 10
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 10,
+          "end" : 18
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " neu starten",
+        "range" : {
+          "start" : 18,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte ",
+        "range" : {
+          "start" : 0,
+          "end" : 16
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 16,
+          "end" : 24
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " neu starten",
+        "range" : {
+          "start" : 24,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du ",
+        "range" : {
+          "start" : 0,
+          "end" : 10
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 10,
+          "end" : 18
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " bitte neu starten",
+        "range" : {
+          "start" : 18,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du ",
+        "range" : {
+          "start" : 0,
+          "end" : 10
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 10,
+          "end" : 18
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " neu starten bitte",
+        "range" : {
+          "start" : 18,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du ",
+        "range" : {
+          "start" : 0,
+          "end" : 10
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 10,
+          "end" : 18
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " zurück setzen",
+        "range" : {
+          "start" : 18,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte ",
+        "range" : {
+          "start" : 0,
+          "end" : 16
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 16,
+          "end" : 24
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " zurück setzen",
+        "range" : {
+          "start" : 24,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du ",
+        "range" : {
+          "start" : 0,
+          "end" : 10
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 10,
+          "end" : 18
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " bitte zurück setzen",
+        "range" : {
+          "start" : 18,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du ",
+        "range" : {
+          "start" : 0,
+          "end" : 10
+        }
+      }, {
+        "text" : "wakeword",
+        "range" : {
+          "start" : 10,
+          "end" : 18
+        },
+        "slot_id" : "mbCNPUipI",
+        "from_autotagging" : false
+      }, {
+        "text" : " zurück setzen bitte",
+        "range" : {
+          "start" : 18,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Starte Snips neu",
+        "range" : {
+          "start" : 0,
+          "end" : 16
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Starte bitte Snips neu",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Starte Snips bitte neu",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte Starte Snips neu",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Starte Snips neu bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Setze Snips zurück",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Setze bitte Snips zurück",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Setze Snips bitte zurück",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte setze Snips zurück",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Setze Snips zurück bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du Snips neu starten",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte Snips neu starten",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du Snips bitte neu starten",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du Snips neu starten bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du Snips zurück setzen",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte Snips zurück setzen",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du Snips bitte zurück setzen",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du Snips zurück setzen bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Starte alle Snips Services neu",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Starte bitte alle Snips Services neu",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Starte alle Snips Services bitte neu",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte Starte alle Snips Services neu",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Starte alle Snips Services neu bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Setze alle Snips Services zurück",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Setze bitte alle Snips Services zurück",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Setze alle Snips Services bitte zurück",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte setze alle Snips Services zurück",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Setze alle Snips Services zurück bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du alle Snips Services neu starten",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte alle Snips Services neu starten",
+        "range" : {
+          "start" : 0,
+          "end" : 47
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du alle Snips Services bitte neu starten",
+        "range" : {
+          "start" : 0,
+          "end" : 47
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du alle Snips Services neu starten bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 47
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du alle Snips Services zurück setzen",
+        "range" : {
+          "start" : 0,
+          "end" : 43
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte alle Snips Services zurück setzen",
+        "range" : {
+          "start" : 0,
+          "end" : 49
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du alle Snips Services bitte zurück setzen",
+        "range" : {
+          "start" : 0,
+          "end" : 49
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du alle Snips Services zurück setzen bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 49
+        }
+      } ],
+      "from_utterance_import" : true
+    } ]
+  },
+  "id" : "intent_9Y1ekG7va2l",
+  "config" : {
+    "displayName" : "RestartService",
+    "name" : "RestartService",
+    "description" : "Startet Snips neu",
+    "language" : "de",
+    "slots" : [ {
+      "name" : "snips_service",
+      "id" : "mbCNPUipI",
+      "entityId" : "entity_AWqrVoE6dn9",
+      "missingQuestion" : "",
+      "required" : false
+    } ],
+    "enabledByDefault" : true,
+    "exampleQueries" : [ "Starte den Service wakeword neu", "Starte bitte den Service wakeword neu", "Starte den Service wakeword bitte neu", "Bitte Starte den Service wakeword neu", "Starte den Service wakeword neu bitte", "Setze den Service wakeword zurück", "Setze bitte den Service wakeword zurück", "Setze den Service wakeword bitte zurück", "Bitte setze den Service wakeword zurück", "Setze den Service wakeword zurück bitte" ]
+  }
+}

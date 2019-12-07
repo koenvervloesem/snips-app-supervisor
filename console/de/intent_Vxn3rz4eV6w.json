@@ -1,0 +1,844 @@
+{
+  "customIntentData" : {
+    "language" : "de",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "Schalte den Raspberry aus",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte bitte den Raspberry aus",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte den Raspberry bitte aus",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "schalte den Raspberry ab",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "schalte den Raspberry bitte ab",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "schalte bitte den Raspberry ab",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "schalte den Raspberry ab bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte den Raspberry aus bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Fahre den Raspberry herunter",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Fahre bitte den Raspberry herunter",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Fahre den Raspberry herunter bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte den Raspberry aus schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du den Raspberry bitte aus schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du den Raspberry aus schalten bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du den Raspberry aus schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte den Raspberry ab schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du den Raspberry bitte ab schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du den Raspberry ab schalten bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du den Raspberry ab schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du den Raspberry herunter fahren",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du bitte den Raspberry herunter fahren",
+        "range" : {
+          "start" : 0,
+          "end" : 45
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du den Raspberry bitte herunter fahren",
+        "range" : {
+          "start" : 0,
+          "end" : 45
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du den Raspberry herunter fahren bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 45
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte den Raspi aus",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte bitte den Raspi aus",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte den Raspi bitte aus",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "schalte den Raspi ab",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "schalte den Raspi bitte ab",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "schalte bitte den Raspi ab",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "schalte den Raspi ab bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte den Raspi aus bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Fahre den Raspi herunter",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Fahre bitte den Raspi herunter",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Fahre den Raspi herunter bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte den Raspi aus schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du den Raspi bitte aus schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du den Raspi aus schalten bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du den Raspi aus schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte den Raspi ab schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du den Raspi bitte ab schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du den Raspi ab schalten bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du den Raspi ab schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du den Raspi herunter fahren",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du bitte den Raspi herunter fahren",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du den Raspi bitte herunter fahren",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du den Raspi herunter fahren bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte dich aus",
+        "range" : {
+          "start" : 0,
+          "end" : 16
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte bitte dich aus",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte dich bitte aus",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "schalte dich ab",
+        "range" : {
+          "start" : 0,
+          "end" : 15
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "schalte dich bitte ab",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "schalte bitte dich ab",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "schalte dich ab bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte dich aus bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Fahre dich herunter",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Fahre bitte dich herunter",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Fahre dich herunter bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte dich aus schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du dich bitte aus schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du dich aus schalten bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du dich aus schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte dich ab schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du dich bitte ab schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du dich ab schalten bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du dich ab schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du dich herunter fahren",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du bitte dich herunter fahren",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du dich bitte herunter fahren",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du dich herunter fahren bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte das System aus",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte bitte das System aus",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte das System bitte aus",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "schalte das system ab",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "schalte das system bitte ab",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "schalte bitte das system ab",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "schalte das system ab bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Schalte das System aus bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Fahre das System herunter",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Fahre bitte das System herunter",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Fahre das System herunter bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte das System aus schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du das System bitte aus schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du das system aus schalten bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du das system aus schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte das System ab schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du das System bitte ab schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du das system ab schalten bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du das system ab schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du das system herunter fahren",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du bitte das system herunter fahren",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du das system bitte herunter fahren",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "kannst du das system herunter fahren bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    } ]
+  },
+  "id" : "intent_Vxn3rz4eV6w",
+  "config" : {
+    "displayName" : "Shutdown",
+    "name" : "Shutdown",
+    "description" : "Fährt das System herunter",
+    "language" : "de",
+    "slots" : [ ],
+    "enabledByDefault" : true,
+    "exampleQueries" : [ "Schalte den Raspberry aus", "Schalte bitte den Raspberry aus", "Schalte den Raspberry bitte aus", "schalte den Raspberry ab", "schalte den Raspberry bitte ab", "schalte bitte den Raspberry ab", "schalte den Raspberry ab bitte", "Schalte den Raspberry aus bitte", "Fahre den Raspberry herunter", "Fahre bitte den Raspberry herunter" ]
+  }
+}

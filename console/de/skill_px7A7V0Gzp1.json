@@ -1,0 +1,25 @@
+{
+  "name" : "Supervisor",
+  "repository" : "https://github.com/koenvervloesem/snips-app-supervisor",
+  "changelog" : "Save SNIPS! https://www.gopetition.com/petitions/let-snips-makers-live.html\nSign today, or everything will be shut down! :(",
+  "description" : "Save SNIPS! https://www.gopetition.com/petitions/let-snips-makers-live.html\nSign today, or everything will be shut down! :(\n\nDiese App gibt dir die Kontrolle über deinen Raspberry. Neustarten, aus schalten, Snips neustarten, Apps aus und wieder an schalten, alles nur per Sprachbefehlen!\n\n- \"Starte dich neu\"\n- \"Schalte dich aus\"\n- \"Starte Snips neu\"\n- \"Deaktiviere die App Assistance Informations\"\n- \"Aktiviere die App Auszeit!\"\n\nDie App benötigt die Berechtigung zum neustarten und herunterfahren des Systems. Auf Raspbian kannst du die Berechtigung folgendermaßen erteilen:\n\nsudo cp /var/lib/snips/skills/snips-app-supervisor/snips-app-supervisor.sudoers /etc/sudoers.d/snips-app-supervisor\nsudo chmod 0440 /etc/sudoers.d/snips-app-supervisor\n\nDer Befehl zum neustarten und herunter fahren, sowie zum neustarten von Snips kann in den Parametern der App geändert werden:\n`reboot_command`, `shutdown_command` und `restart_service_command`. Standardmäßig sind diese für Raspbian eingestellt.\n\nBevor eine Systemoperation ausgeführt wird, musst du dies bestätigen. Du kannst es aber auch in den Programm Parametern `reboot_confirm` und `shutdown_confirm` ausschalten.\n\nZum aktivieren und deaktivieren von Apps muss der `snips-injection` service laufen. Das ist notwendig, damit alle installierten Apps in das Vokabular aufgenommen werden können.\n\nMehr Informationen findest du im Github: https://github.com/koenvervloesem/snips-app-supervisor\n\nFür Verbesserungsvorschläge, neue Trainingsdaten oder weitere Features, so wie bei Bugs, bitte wende dich an mich:\nphil@uselessbrickwall.com\n\nOder wende dich in englisch direkt an Koan, dem auch an dieser Stelle wieder jeder Dank gebührt, für die App im Original:\nkoen@vervloesem.eu\n\nDie original englische App findest du hier:\nhttps://console.snips.ai/store/en/skill_l6qM1pVz2ez\n\nWir sind jederzeit für Ideen, Verbesserungen und neue Features offen. Also schreib uns doch einfach! Und wenn dir die App gefällt, lass doch eine Bewertung da - gerne natürlich auch direkt bei Koan im original Programm!",
+  "skillType" : "GITHUB",
+  "intents" : [ {
+    "id" : "intent_39O1d5QlNBW"
+  }, {
+    "id" : "intent_9Y1ekG7va2l"
+  }, {
+    "id" : "intent_K0EX1bQNv0e"
+  }, {
+    "id" : "intent_Vxn3rz4eV6w"
+  }, {
+    "id" : "intent_Y57pKAn5gAb"
+  }, {
+    "id" : "intent_kXmZOYMlD28"
+  }, {
+    "id" : "intent_zdkAOrOnZZx"
+  } ],
+  "id" : "skill_px7A7V0Gzp1",
+  "language" : "de",
+  "imageUrl" : "https://console.snips.ai/images/bundles/bundle-restart.svg"
+}

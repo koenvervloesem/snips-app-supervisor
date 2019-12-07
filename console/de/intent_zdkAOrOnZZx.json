@@ -1,0 +1,687 @@
+{
+  "customIntentData" : {
+    "language" : "de",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "Starte dich neu",
+        "range" : {
+          "start" : 0,
+          "end" : 15
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte starte dich neu",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte dich neu starten",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reboote dich",
+        "range" : {
+          "start" : 0,
+          "end" : 12
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reboote bitte dich",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte Reboote dich",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reboote dich bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reboote doch bitte mal dich",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reboote bitte mal dich",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte dich neu starten",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du dich neu starten bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du dich mal neu starten",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte dich mal neu starten",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du dich mal neu starten bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte dich durchstarten",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du dich bitte durchstarten",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du dich durchstarten bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "reboote",
+        "range" : {
+          "start" : 0,
+          "end" : 7
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "starte neu",
+        "range" : {
+          "start" : 0,
+          "end" : 10
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Reboot",
+        "range" : {
+          "start" : 0,
+          "end" : 6
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Neustart",
+        "range" : {
+          "start" : 0,
+          "end" : 8
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Starte den Raspi neu",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte starte den Raspi neu",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Starte bitte den Raspi neu",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte den Raspi neu starten",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reboote den Raspi",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reboote bitte den Raspi",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte Reboote den Raspi",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reboote den Raspi bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reboote doch bitte mal den Raspi",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reboote bitte mal den Raspi",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte den Raspi neu starten",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du den Raspi neu starten bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du mal den Raspi neu starten",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte mal den Raspi neu starten",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du mal den Raspi neu starten bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte den Raspi durchstarten",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du den Raspi bitte durchstarten",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du den Raspi durchstarten bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Starte den Raspberry neu",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte starte den Raspberry neu",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Starte bitte den Raspberry neu",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte den Raspberry neu starten",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reboote den Raspberry",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reboote bitte den Raspberry",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte Reboote den Raspberry",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reboote den Raspberry bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reboote doch bitte mal den Raspberry",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reboote bitte mal den Raspberry",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte den Raspberry neu starten",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du den Raspberry neu starten bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du mal den Raspberry neu starten",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte mal den Raspberry neu starten",
+        "range" : {
+          "start" : 0,
+          "end" : 45
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du mal den Raspberry neu starten bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 45
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte den Raspberry durchstarten",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du den Raspberry bitte durchstarten",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du den Raspberry durchstarten bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Starte das System neu",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte starte das System neu",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Starte bitte das System neu",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte das System neu starten",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reboote das System",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reboote bitte das System",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Bitte Reboote das System",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reboote das System bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reboote doch bitte mal das System",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reboote bitte mal das System",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte das System neu starten",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du das System neu starten bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du mal das System neu starten",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte mal das System neu starten",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du mal das System neu starten bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du bitte das System durchstarten",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du das System bitte durchstarten",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Kannst du das System durchstarten bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    } ]
+  },
+  "id" : "intent_zdkAOrOnZZx",
+  "config" : {
+    "displayName" : "Reboot",
+    "name" : "Reboot",
+    "description" : "Startet das System neu",
+    "language" : "de",
+    "slots" : [ ],
+    "enabledByDefault" : true,
+    "exampleQueries" : [ "Starte dich neu", "Bitte starte dich neu", "Bitte dich neu starten", "Reboote dich", "Reboote bitte dich", "Bitte Reboote dich", "Reboote dich bitte", "Reboote doch bitte mal dich", "Reboote bitte mal dich", "Kannst du bitte dich neu starten" ]
+  }
+}
