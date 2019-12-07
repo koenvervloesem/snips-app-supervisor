@@ -1,0 +1,12 @@
+{
+  "name" : "koan/snips-app",
+  "useSynonyms" : true,
+  "data" : [ {
+    "value" : "Supervisor",
+    "synonyms" : [ ]
+  } ],
+  "automaticallyExtensible" : false,
+  "id" : "entity_ZKbVqzzvd3",
+  "language" : "en",
+  "entityType" : "custom"
+}

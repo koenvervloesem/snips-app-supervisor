@@ -1,0 +1,25 @@
+{
+  "name" : "Supervisor",
+  "repository" : "https://github.com/koenvervloesem/snips-app-supervisor",
+  "changelog" : "Added link to the German app",
+  "description" : "This app lets you reboot or shutdown the system, restart Snips services and disable and enable Snips apps:\n\n- \"Reboot yourself\"\n- \"Please shutdown\"\n- \"Restart the Snips apps\"\n- \"Disable the Assistant information app\"\n- \"Enable the Say it again skill\"\n\nThe app needs permission to reboot and shutdown your computer and to restart system services. If your system is a systemd-based Linux distribution, such as Raspbian or Ubuntu, you can give the app the needed permissions like this:\n\nsudo cp /var/lib/snips/skills/snips-app-supervisor/snips-app-supervisor.sudoers /etc/sudoers.d/snips-app-supervisor\nsudo chmod 0440 /etc/sudoers.d/snips-app-supervisor\n\nThe commands to reboot and shutdown your system and to restart Snips services can be changed in the parameters of this app: `reboot_command`, `shutdown_command` and `restart_service_command`. By default they are set up for a systemd-based Linux distribution.\n\nBy default the app asks for confirmation if you ask it to reboot or shutdown your system. This can be disabled in the app's parameters `reboot_confirm` and `shutdown_confirm`.\n\nFor disabling and enabling apps, the `snips-injection` service should be running, because the names of the installed apps are injected in the vocabulary of Snips.\n\nMore information can be found on the GitHub page of the actions code: https://github.com/koenvervloesem/snips-app-supervisor\n\nIf you have some suggestions for improvements, such as new training examples or new functionality, or if you found a bug, feel free to contact me at koen@vervloesem.eu and I'll be happy to add or correct it. And if you like my app, please rate it :-)\n\nThis app also exists in\n\n- French: https://console.snips.ai/store/fr/skill_BWAwo87MxrW\n- German: https://console.snips.ai/store/de/skill_px7A7V0Gzp1",
+  "skillType" : "GITHUB",
+  "intents" : [ {
+    "id" : "intent_KgV9B1Vwml"
+  }, {
+    "id" : "intent_VrAAGlNVBQ4"
+  }, {
+    "id" : "intent_an28BrG5P3z"
+  }, {
+    "id" : "intent_kkQbeY9P3GN"
+  }, {
+    "id" : "intent_o8Y5Ke04BnD"
+  }, {
+    "id" : "intent_o96qxMx4Nqk"
+  }, {
+    "id" : "intent_p9e5ZrWeXnWN"
+  } ],
+  "id" : "skill_l6qM1pVz2ez",
+  "language" : "en",
+  "imageUrl" : "https://console.snips.ai/images/bundles/bundle-restart.svg"
+}

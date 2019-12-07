@@ -1,0 +1,1810 @@
+{
+  "customIntentData" : {
+    "language" : "en",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "I want you to activate the skill ",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 33,
+          "end" : 43
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to activate the ",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 27,
+          "end" : 37
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " skill",
+        "range" : {
+          "start" : 37,
+          "end" : 43
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to activate the actions of ",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 38,
+          "end" : 48
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to activate the app ",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 31,
+          "end" : 41
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to activate the ",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 27,
+          "end" : 37
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " actions",
+        "range" : {
+          "start" : 37,
+          "end" : 45
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to activate the ",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 27,
+          "end" : 37
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " app",
+        "range" : {
+          "start" : 37,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to activate ",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 23,
+          "end" : 33
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "activate the skill ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 19,
+          "end" : 29
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : ", will you?",
+        "range" : {
+          "start" : 29,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "activate the ",
+        "range" : {
+          "start" : 0,
+          "end" : 13
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 13,
+          "end" : 23
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " skill, will you?",
+        "range" : {
+          "start" : 23,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "activate the actions of ",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 24,
+          "end" : 34
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : ", will you?",
+        "range" : {
+          "start" : 34,
+          "end" : 45
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "activate the app ",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 17,
+          "end" : 27
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : ", will you?",
+        "range" : {
+          "start" : 27,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "activate the ",
+        "range" : {
+          "start" : 0,
+          "end" : 13
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 13,
+          "end" : 23
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " actions, will you?",
+        "range" : {
+          "start" : 23,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "activate the ",
+        "range" : {
+          "start" : 0,
+          "end" : 13
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 13,
+          "end" : 23
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " app, will you?",
+        "range" : {
+          "start" : 23,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "activate ",
+        "range" : {
+          "start" : 0,
+          "end" : 9
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 9,
+          "end" : 19
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : ", will you?",
+        "range" : {
+          "start" : 19,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you activate the skill ",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 27,
+          "end" : 37
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : "?",
+        "range" : {
+          "start" : 37,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you activate the ",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 21,
+          "end" : 31
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " skill?",
+        "range" : {
+          "start" : 31,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you activate the actions of ",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 32,
+          "end" : 42
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : "?",
+        "range" : {
+          "start" : 42,
+          "end" : 43
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you activate the app ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 25,
+          "end" : 35
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : "?",
+        "range" : {
+          "start" : 35,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you activate the ",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 21,
+          "end" : 31
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " actions?",
+        "range" : {
+          "start" : 31,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you activate the ",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 21,
+          "end" : 31
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " app?",
+        "range" : {
+          "start" : 31,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you activate ",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 17,
+          "end" : 27
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : "?",
+        "range" : {
+          "start" : 27,
+          "end" : 28
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "activate the skill ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 19,
+          "end" : 29
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : ", please",
+        "range" : {
+          "start" : 29,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "activate the ",
+        "range" : {
+          "start" : 0,
+          "end" : 13
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 13,
+          "end" : 23
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " skill, please",
+        "range" : {
+          "start" : 23,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "activate the actions of ",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 24,
+          "end" : 34
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : ", please",
+        "range" : {
+          "start" : 34,
+          "end" : 42
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "activate the app ",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 17,
+          "end" : 27
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : ", please",
+        "range" : {
+          "start" : 27,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "activate the ",
+        "range" : {
+          "start" : 0,
+          "end" : 13
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 13,
+          "end" : 23
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " actions, please",
+        "range" : {
+          "start" : 23,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "activate the ",
+        "range" : {
+          "start" : 0,
+          "end" : 13
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 13,
+          "end" : 23
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " app, please",
+        "range" : {
+          "start" : 23,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "activate ",
+        "range" : {
+          "start" : 0,
+          "end" : 9
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 9,
+          "end" : 19
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : ", please",
+        "range" : {
+          "start" : 19,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please activate the skill ",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 26,
+          "end" : 36
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please activate the ",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 20,
+          "end" : 30
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " skill",
+        "range" : {
+          "start" : 30,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please activate the actions of ",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 31,
+          "end" : 41
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please activate the app ",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 24,
+          "end" : 34
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please activate the ",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 20,
+          "end" : 30
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " actions",
+        "range" : {
+          "start" : 30,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please activate the ",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 20,
+          "end" : 30
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " app",
+        "range" : {
+          "start" : 30,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please activate ",
+        "range" : {
+          "start" : 0,
+          "end" : 16
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 16,
+          "end" : 26
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "activate the skill ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 19,
+          "end" : 29
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "activate the ",
+        "range" : {
+          "start" : 0,
+          "end" : 13
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 13,
+          "end" : 23
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " skill",
+        "range" : {
+          "start" : 23,
+          "end" : 29
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "activate the actions of ",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 24,
+          "end" : 34
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "activate the app ",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 17,
+          "end" : 27
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "activate the ",
+        "range" : {
+          "start" : 0,
+          "end" : 13
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 13,
+          "end" : 23
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " actions",
+        "range" : {
+          "start" : 23,
+          "end" : 31
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "activate the ",
+        "range" : {
+          "start" : 0,
+          "end" : 13
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 13,
+          "end" : 23
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " app",
+        "range" : {
+          "start" : 23,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "activate ",
+        "range" : {
+          "start" : 0,
+          "end" : 9
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 9,
+          "end" : 19
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to enable the skill ",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 31,
+          "end" : 41
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to enable the ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 25,
+          "end" : 35
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " skill",
+        "range" : {
+          "start" : 35,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to enable the actions of ",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 36,
+          "end" : 46
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to enable the app ",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 29,
+          "end" : 39
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to enable the ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 25,
+          "end" : 35
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " actions",
+        "range" : {
+          "start" : 35,
+          "end" : 43
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to enable the ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 25,
+          "end" : 35
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " app",
+        "range" : {
+          "start" : 35,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to enable ",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 21,
+          "end" : 31
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "enable the skill ",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 17,
+          "end" : 27
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : ", will you?",
+        "range" : {
+          "start" : 27,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "enable the ",
+        "range" : {
+          "start" : 0,
+          "end" : 11
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 11,
+          "end" : 21
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " skill, will you?",
+        "range" : {
+          "start" : 21,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "enable the actions of ",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 22,
+          "end" : 32
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : ", will you?",
+        "range" : {
+          "start" : 32,
+          "end" : 43
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "enable the app ",
+        "range" : {
+          "start" : 0,
+          "end" : 15
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 15,
+          "end" : 25
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : ", will you?",
+        "range" : {
+          "start" : 25,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "enable the ",
+        "range" : {
+          "start" : 0,
+          "end" : 11
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 11,
+          "end" : 21
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " actions, will you?",
+        "range" : {
+          "start" : 21,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "enable the ",
+        "range" : {
+          "start" : 0,
+          "end" : 11
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 11,
+          "end" : 21
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " app, will you?",
+        "range" : {
+          "start" : 21,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "enable ",
+        "range" : {
+          "start" : 0,
+          "end" : 7
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 7,
+          "end" : 17
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : ", will you?",
+        "range" : {
+          "start" : 17,
+          "end" : 28
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you enable the skill ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 25,
+          "end" : 35
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : "?",
+        "range" : {
+          "start" : 35,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you enable the ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 19,
+          "end" : 29
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " skill?",
+        "range" : {
+          "start" : 29,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you enable the actions of ",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 30,
+          "end" : 40
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : "?",
+        "range" : {
+          "start" : 40,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you enable the app ",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 23,
+          "end" : 33
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : "?",
+        "range" : {
+          "start" : 33,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you enable the ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 19,
+          "end" : 29
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " actions?",
+        "range" : {
+          "start" : 29,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you enable the ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 19,
+          "end" : 29
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " app?",
+        "range" : {
+          "start" : 29,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "can you enable ",
+        "range" : {
+          "start" : 0,
+          "end" : 15
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 15,
+          "end" : 25
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : "?",
+        "range" : {
+          "start" : 25,
+          "end" : 26
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "enable the skill ",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 17,
+          "end" : 27
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : ", please",
+        "range" : {
+          "start" : 27,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "enable the ",
+        "range" : {
+          "start" : 0,
+          "end" : 11
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 11,
+          "end" : 21
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " skill, please",
+        "range" : {
+          "start" : 21,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "enable the actions of ",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 22,
+          "end" : 32
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : ", please",
+        "range" : {
+          "start" : 32,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "enable the app ",
+        "range" : {
+          "start" : 0,
+          "end" : 15
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 15,
+          "end" : 25
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : ", please",
+        "range" : {
+          "start" : 25,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "enable the ",
+        "range" : {
+          "start" : 0,
+          "end" : 11
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 11,
+          "end" : 21
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " actions, please",
+        "range" : {
+          "start" : 21,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "enable the ",
+        "range" : {
+          "start" : 0,
+          "end" : 11
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 11,
+          "end" : 21
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " app, please",
+        "range" : {
+          "start" : 21,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "enable ",
+        "range" : {
+          "start" : 0,
+          "end" : 7
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 7,
+          "end" : 17
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : ", please",
+        "range" : {
+          "start" : 17,
+          "end" : 25
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please enable the skill ",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 24,
+          "end" : 34
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please enable the ",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 18,
+          "end" : 28
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " skill",
+        "range" : {
+          "start" : 28,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please enable the actions of ",
+        "range" : {
+          "start" : 0,
+          "end" : 29
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 29,
+          "end" : 39
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please enable the app ",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 22,
+          "end" : 32
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please enable the ",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 18,
+          "end" : 28
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " actions",
+        "range" : {
+          "start" : 28,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please enable the ",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 18,
+          "end" : 28
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " app",
+        "range" : {
+          "start" : 28,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "please enable ",
+        "range" : {
+          "start" : 0,
+          "end" : 14
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 14,
+          "end" : 24
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "enable the skill ",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 17,
+          "end" : 27
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "enable the ",
+        "range" : {
+          "start" : 0,
+          "end" : 11
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 11,
+          "end" : 21
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " skill",
+        "range" : {
+          "start" : 21,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "enable the actions of ",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 22,
+          "end" : 32
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "enable the app ",
+        "range" : {
+          "start" : 0,
+          "end" : 15
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 15,
+          "end" : 25
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "enable the ",
+        "range" : {
+          "start" : 0,
+          "end" : 11
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 11,
+          "end" : 21
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " actions",
+        "range" : {
+          "start" : 21,
+          "end" : 29
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "enable the ",
+        "range" : {
+          "start" : 0,
+          "end" : 11
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 11,
+          "end" : 21
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      }, {
+        "text" : " app",
+        "range" : {
+          "start" : 21,
+          "end" : 25
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "enable ",
+        "range" : {
+          "start" : 0,
+          "end" : 7
+        }
+      }, {
+        "text" : "Supervisor",
+        "range" : {
+          "start" : 7,
+          "end" : 17
+        },
+        "slot_id" : "gNNZ-x9mt",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    } ]
+  },
+  "id" : "intent_o96qxMx4Nqk",
+  "config" : {
+    "displayName" : "EnableApp",
+    "name" : "EnableApp",
+    "description" : "The user asks to enable a Snips app.",
+    "language" : "en",
+    "slots" : [ {
+      "name" : "app",
+      "id" : "gNNZ-x9mt",
+      "entityId" : "entity_ZKbVqzzvd3",
+      "missingQuestion" : "",
+      "required" : false
+    } ],
+    "enabledByDefault" : true,
+    "exampleQueries" : [ "I want you to activate the skill Supervisor", "I want you to activate the Supervisor skill", "I want you to activate the actions of Supervisor", "I want you to activate the app Supervisor", "I want you to activate the Supervisor actions", "I want you to activate the Supervisor app", "I want you to activate Supervisor", "activate the skill Supervisor, will you?", "activate the Supervisor skill, will you?", "activate the actions of Supervisor, will you?" ]
+  }
+}

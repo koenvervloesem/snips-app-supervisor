@@ -1,0 +1,731 @@
+{
+  "customIntentData" : {
+    "language" : "en",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "I want you to start Snips again",
+        "range" : {
+          "start" : 0,
+          "end" : 31
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to reload Snips",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to restart Snips",
+        "range" : {
+          "start" : 0,
+          "end" : 27
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to start all Snips services again",
+        "range" : {
+          "start" : 0,
+          "end" : 44
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to reload all Snips services",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to restart all Snips services",
+        "range" : {
+          "start" : 0,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to start ",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      }, {
+        "text" : "text to speech",
+        "range" : {
+          "start" : 20,
+          "end" : 34
+        },
+        "slot_id" : "kWepcQ7aB",
+        "from_autotagging" : false
+      }, {
+        "text" : " again",
+        "range" : {
+          "start" : 34,
+          "end" : 40
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to reload the ",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      }, {
+        "text" : "snips-skill-server",
+        "range" : {
+          "start" : 25,
+          "end" : 43
+        },
+        "slot_id" : "kWepcQ7aB",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "I want you to restart the ",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      }, {
+        "text" : "NLU",
+        "range" : {
+          "start" : 26,
+          "end" : 29
+        },
+        "slot_id" : "kWepcQ7aB",
+        "from_autotagging" : false
+      }, {
+        "text" : " service",
+        "range" : {
+          "start" : 29,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Can you start Snips again?",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Can you reload Snips?",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Can you restart Snips?",
+        "range" : {
+          "start" : 0,
+          "end" : 22
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Can you start all Snips services again?",
+        "range" : {
+          "start" : 0,
+          "end" : 39
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Can you reload all Snips services?",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Can you restart all Snips services?",
+        "range" : {
+          "start" : 0,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Can you start ",
+        "range" : {
+          "start" : 0,
+          "end" : 14
+        }
+      }, {
+        "text" : "snips-tts",
+        "range" : {
+          "start" : 14,
+          "end" : 23
+        },
+        "slot_id" : "kWepcQ7aB",
+        "from_autotagging" : false
+      }, {
+        "text" : " again?",
+        "range" : {
+          "start" : 23,
+          "end" : 30
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Can you reload the ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "NLU",
+        "range" : {
+          "start" : 19,
+          "end" : 22
+        },
+        "slot_id" : "kWepcQ7aB",
+        "from_autotagging" : false
+      }, {
+        "text" : "?",
+        "range" : {
+          "start" : 22,
+          "end" : 23
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Can you restart the ",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      }, {
+        "text" : "skills",
+        "range" : {
+          "start" : 20,
+          "end" : 26
+        },
+        "slot_id" : "kWepcQ7aB",
+        "from_autotagging" : false
+      }, {
+        "text" : " service?",
+        "range" : {
+          "start" : 26,
+          "end" : 35
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Start Snips again, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 28
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reload Snips, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 23
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Restart Snips, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Start all Snips services again, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 41
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reload all Snips services, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Restart all Snips services, will you?",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Start ",
+        "range" : {
+          "start" : 0,
+          "end" : 6
+        }
+      }, {
+        "text" : "snips-injection",
+        "range" : {
+          "start" : 6,
+          "end" : 21
+        },
+        "slot_id" : "kWepcQ7aB",
+        "from_autotagging" : false
+      }, {
+        "text" : " again, will you?",
+        "range" : {
+          "start" : 21,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reload the ",
+        "range" : {
+          "start" : 0,
+          "end" : 11
+        }
+      }, {
+        "text" : "automatic speech recognition",
+        "range" : {
+          "start" : 11,
+          "end" : 39
+        },
+        "slot_id" : "kWepcQ7aB",
+        "from_autotagging" : false
+      }, {
+        "text" : ", will you?",
+        "range" : {
+          "start" : 39,
+          "end" : 50
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Restart the ",
+        "range" : {
+          "start" : 0,
+          "end" : 12
+        }
+      }, {
+        "text" : "TTS",
+        "range" : {
+          "start" : 12,
+          "end" : 15
+        },
+        "slot_id" : "kWepcQ7aB",
+        "from_autotagging" : false
+      }, {
+        "text" : " service, will you?",
+        "range" : {
+          "start" : 15,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please start Snips again",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please reload Snips",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please restart Snips",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please start all Snips services again",
+        "range" : {
+          "start" : 0,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please reload all Snips services",
+        "range" : {
+          "start" : 0,
+          "end" : 32
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please restart all Snips services",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please start ",
+        "range" : {
+          "start" : 0,
+          "end" : 13
+        }
+      }, {
+        "text" : "snips-dialogue",
+        "range" : {
+          "start" : 13,
+          "end" : 27
+        },
+        "slot_id" : "kWepcQ7aB",
+        "from_autotagging" : false
+      }, {
+        "text" : " again",
+        "range" : {
+          "start" : 27,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please reload the ",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      }, {
+        "text" : "ASR",
+        "range" : {
+          "start" : 18,
+          "end" : 21
+        },
+        "slot_id" : "kWepcQ7aB",
+        "from_autotagging" : false
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Please restart the ",
+        "range" : {
+          "start" : 0,
+          "end" : 19
+        }
+      }, {
+        "text" : "analytics",
+        "range" : {
+          "start" : 19,
+          "end" : 28
+        },
+        "slot_id" : "kWepcQ7aB",
+        "from_autotagging" : false
+      }, {
+        "text" : " service",
+        "range" : {
+          "start" : 28,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Start Snips again, please",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reload Snips, please",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Restart Snips, please",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Start all Snips services again, please",
+        "range" : {
+          "start" : 0,
+          "end" : 38
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reload all Snips services, please",
+        "range" : {
+          "start" : 0,
+          "end" : 33
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Restart all Snips services, please",
+        "range" : {
+          "start" : 0,
+          "end" : 34
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Start the ",
+        "range" : {
+          "start" : 0,
+          "end" : 10
+        }
+      }, {
+        "text" : "audio server",
+        "range" : {
+          "start" : 10,
+          "end" : 22
+        },
+        "slot_id" : "kWepcQ7aB",
+        "from_autotagging" : false
+      }, {
+        "text" : " again, please",
+        "range" : {
+          "start" : 22,
+          "end" : 36
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Reload ",
+        "range" : {
+          "start" : 0,
+          "end" : 7
+        }
+      }, {
+        "text" : "snips-hotword",
+        "range" : {
+          "start" : 7,
+          "end" : 20
+        },
+        "slot_id" : "kWepcQ7aB",
+        "from_autotagging" : false
+      }, {
+        "text" : ", please",
+        "range" : {
+          "start" : 20,
+          "end" : 28
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Restart the ",
+        "range" : {
+          "start" : 0,
+          "end" : 12
+        }
+      }, {
+        "text" : "analytics",
+        "range" : {
+          "start" : 12,
+          "end" : 21
+        },
+        "slot_id" : "kWepcQ7aB",
+        "from_autotagging" : false
+      }, {
+        "text" : " service, please",
+        "range" : {
+          "start" : 21,
+          "end" : 37
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Start Snips again",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Reload Snips",
+        "range" : {
+          "start" : 0,
+          "end" : 12
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Restart Snips",
+        "range" : {
+          "start" : 0,
+          "end" : 13
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Start all Snips services again",
+        "range" : {
+          "start" : 0,
+          "end" : 30
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Reload all Snips services",
+        "range" : {
+          "start" : 0,
+          "end" : 25
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Restart all Snips services",
+        "range" : {
+          "start" : 0,
+          "end" : 26
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Start ",
+        "range" : {
+          "start" : 0,
+          "end" : 6
+        }
+      }, {
+        "text" : "snips-tts",
+        "range" : {
+          "start" : 6,
+          "end" : 15
+        },
+        "slot_id" : "kWepcQ7aB"
+      }, {
+        "text" : " again",
+        "range" : {
+          "start" : 15,
+          "end" : 21
+        }
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Reload the ",
+        "range" : {
+          "start" : 0,
+          "end" : 11
+        }
+      }, {
+        "text" : "NLU",
+        "range" : {
+          "start" : 11,
+          "end" : 14
+        },
+        "slot_id" : "kWepcQ7aB"
+      } ]
+    }, {
+      "data" : [ {
+        "text" : "Restart the ",
+        "range" : {
+          "start" : 0,
+          "end" : 12
+        }
+      }, {
+        "text" : "skills",
+        "range" : {
+          "start" : 12,
+          "end" : 18
+        },
+        "slot_id" : "kWepcQ7aB"
+      }, {
+        "text" : " service",
+        "range" : {
+          "start" : 18,
+          "end" : 26
+        }
+      } ]
+    } ]
+  },
+  "id" : "intent_KgV9B1Vwml",
+  "config" : {
+    "displayName" : "RestartService",
+    "name" : "RestartService",
+    "description" : "The user asks to restart a Snips service or all Snips services.",
+    "language" : "en",
+    "slots" : [ {
+      "name" : "snips_service",
+      "id" : "kWepcQ7aB",
+      "entityId" : "entity_b7kngmVweG2",
+      "missingQuestion" : "",
+      "required" : false,
+      "description" : "The Snips service to restart"
+    } ],
+    "enabledByDefault" : true,
+    "exampleQueries" : [ "I want you to start Snips again", "I want you to reload Snips", "I want you to restart Snips", "I want you to start all Snips services again", "I want you to reload all Snips services", "I want you to restart all Snips services", "I want you to start text to speech again", "I want you to reload the snips-skill-server", "I want you to restart the NLU service", "Can you start Snips again?" ]
+  }
+}
