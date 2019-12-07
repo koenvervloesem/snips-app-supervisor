@@ -1,5 +1,5 @@
 # Supervisor app for Snips
-[![Build status](https://api.travis-ci.com/koenvervloesem/snips-app-supervisor.svg?branch=master)](https://travis-ci.com/koenvervloesem/snips-app-supervisor) [![Maintainability](https://api.codeclimate.com/v1/badges/b3a76052925c4dfb5941/maintainability)](https://codeclimate.com/github/koenvervloesem/snips-app-supervisor/maintainability) [![Code quality](https://api.codacy.com/project/badge/Grade/42c7678a1b1b4f4aa6059c054bfe98cf)](https://app.codacy.com/app/koenvervloesem/snips-app-supervisor) [![Python versions](https://img.shields.io/badge/python-3.5-blue.svg)](https://www.python.org) [![GitHub license](https://img.shields.io/github/license/koenvervloesem/snips-app-supervisor.svg)](https://github.com/koenvervloesem/snips-app-supervisor/blob/master/LICENSE) [![Languages](https://img.shields.io/badge/i18n-en|de|fr-brown.svg)](https://github.com/koenvervloesem/snips-supervisor/tree/master/translations) [![Snips App Store](https://img.shields.io/badge/snips-app-blue.svg)](https://console.snips.ai/store/en/skill_l6qM1pVz2ez)
+[![Build status](https://api.travis-ci.com/koenvervloesem/snips-app-supervisor.svg?branch=master)](https://travis-ci.com/koenvervloesem/snips-app-supervisor) [![Maintainability](https://api.codeclimate.com/v1/badges/b3a76052925c4dfb5941/maintainability)](https://codeclimate.com/github/koenvervloesem/snips-app-supervisor/maintainability) [![Code quality](https://api.codacy.com/project/badge/Grade/42c7678a1b1b4f4aa6059c054bfe98cf)](https://app.codacy.com/app/koenvervloesem/snips-app-supervisor) [![Python versions](https://img.shields.io/badge/python-3.5-blue.svg)](https://www.python.org) [![GitHub license](https://img.shields.io/github/license/koenvervloesem/snips-app-supervisor.svg)](https://github.com/koenvervloesem/snips-app-supervisor/blob/master/LICENSE) [![Languages](https://img.shields.io/badge/i18n-en|de|es|fr-brown.svg)](https://github.com/koenvervloesem/snips-supervisor/tree/master/translations) [![Snips App Store](https://img.shields.io/badge/snips-app-blue.svg)](https://console.snips.ai/store/en/skill_l6qM1pVz2ez)
 
 With this [Snips](https://snips.ai/) app, you can reboot or shutdown the system Snips is running on, as well as restart Snips services.
 
@@ -10,6 +10,7 @@ The easiest way to install this app is by adding the corresponding Snips app to 
 *   English: [Supervisor](https://console.snips.ai/store/en/skill_l6qM1pVz2ez)
 *   French: [Superviseur](https://console.snips.ai/store/fr/skill_BWAwo87MxrW)
 *   German: [Supervisor](https://console.snips.ai/store/de/skill_px7A7V0Gzp1)
+*   Spanish: [Supervisor](https://console.snips.ai/store/es/skill_n4lX48YApK7)
 
 ## Configuration
 
