@@ -1,0 +1,430 @@
+{
+  "customIntentData" : {
+    "language" : "de",
+    "utterances" : [ {
+      "data" : [ {
+        "text" : "Ja",
+        "range" : {
+          "start" : 0,
+          "end" : 2
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Ja bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 8
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "bitte ja",
+        "range" : {
+          "start" : 0,
+          "end" : 8
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "natürlich",
+        "range" : {
+          "start" : 0,
+          "end" : 9
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "gerne",
+        "range" : {
+          "start" : 0,
+          "end" : 5
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "klar",
+        "range" : {
+          "start" : 0,
+          "end" : 4
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "klaro",
+        "range" : {
+          "start" : 0,
+          "end" : 5
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "jaa",
+        "range" : {
+          "start" : 0,
+          "end" : 3
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "yep",
+        "range" : {
+          "start" : 0,
+          "end" : 3
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "jap",
+        "range" : {
+          "start" : 0,
+          "end" : 3
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "joa",
+        "range" : {
+          "start" : 0,
+          "end" : 3
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "ja herunterfahren",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "ja auschalten",
+        "range" : {
+          "start" : 0,
+          "end" : 13
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "ja bitte aus schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "ja bitte herunter fahren",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "mach",
+        "range" : {
+          "start" : 0,
+          "end" : 4
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "ja mach",
+        "range" : {
+          "start" : 0,
+          "end" : 7
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "mach bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 10
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "ja mach bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 13
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "okay",
+        "range" : {
+          "start" : 0,
+          "end" : 4
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "ok",
+        "range" : {
+          "start" : 0,
+          "end" : 2
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "ok herunter fahren",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "okay herunter fahren",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Ja",
+        "range" : {
+          "start" : 0,
+          "end" : 2
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "Ja bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 8
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "bitte ja",
+        "range" : {
+          "start" : 0,
+          "end" : 8
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "natürlich",
+        "range" : {
+          "start" : 0,
+          "end" : 9
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "gerne",
+        "range" : {
+          "start" : 0,
+          "end" : 5
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "klar",
+        "range" : {
+          "start" : 0,
+          "end" : 4
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "klaro",
+        "range" : {
+          "start" : 0,
+          "end" : 5
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "jaa",
+        "range" : {
+          "start" : 0,
+          "end" : 3
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "yep",
+        "range" : {
+          "start" : 0,
+          "end" : 3
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "jap",
+        "range" : {
+          "start" : 0,
+          "end" : 3
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "joa",
+        "range" : {
+          "start" : 0,
+          "end" : 3
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "ja herunterfahren",
+        "range" : {
+          "start" : 0,
+          "end" : 17
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "ja auschalten",
+        "range" : {
+          "start" : 0,
+          "end" : 13
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "ja bitte aus schalten",
+        "range" : {
+          "start" : 0,
+          "end" : 21
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "ja bitte herunter fahren",
+        "range" : {
+          "start" : 0,
+          "end" : 24
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "mach",
+        "range" : {
+          "start" : 0,
+          "end" : 4
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "ja mach",
+        "range" : {
+          "start" : 0,
+          "end" : 7
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "mach bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 10
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "ja mach bitte",
+        "range" : {
+          "start" : 0,
+          "end" : 13
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "okay",
+        "range" : {
+          "start" : 0,
+          "end" : 4
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "ok",
+        "range" : {
+          "start" : 0,
+          "end" : 2
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "ok herunter fahren",
+        "range" : {
+          "start" : 0,
+          "end" : 18
+        }
+      } ],
+      "from_utterance_import" : true
+    }, {
+      "data" : [ {
+        "text" : "okay herunter fahren",
+        "range" : {
+          "start" : 0,
+          "end" : 20
+        }
+      } ],
+      "from_utterance_import" : true
+    } ]
+  },
+  "id" : "intent_kXmZOYMlD28",
+  "config" : {
+    "displayName" : "ConfirmShutdown",
+    "name" : "ConfirmShutdown",
+    "description" : "Bestätigung des Herunterfahrens",
+    "language" : "de",
+    "slots" : [ ],
+    "enabledByDefault" : false,
+    "exampleQueries" : [ "Ja", "Ja bitte", "bitte ja", "natürlich", "gerne", "klar", "klaro", "jaa", "yep", "jap" ]
+  }
+}
