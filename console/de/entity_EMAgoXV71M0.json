@@ -1,0 +1,9 @@
+{
+  "name" : "Philipp/snips-app",
+  "useSynonyms" : true,
+  "data" : [ ],
+  "automaticallyExtensible" : false,
+  "id" : "entity_EMAgoXV71M0",
+  "language" : "de",
+  "entityType" : "custom"
+}
